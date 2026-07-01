@@ -5,6 +5,7 @@
 ```
   CCICON 是一个 Windows 桌面程序，用于显示 Claude Code 运行状态
   先右键执行setup，更改配置文件，并添加Hooks 即可使用
+  可直接下载CCICON.exe使用
 ```
 
 系统托盘显示 Claude Code 任务状态：
